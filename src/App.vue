@@ -434,7 +434,7 @@ function generarPDF() {
       </div>
 
       <div type="button" @click="seleccionarGanador" id="numeroGanador">
-        <img src="../src/assets/recursos_pag_loteria/r.jpg" alt="" />
+        <img src="../src/assets/recursos_pag_loteria/boleta.jpg" alt="" />
         <p>Elegir Ganador</p>
       </div>
     </div>
